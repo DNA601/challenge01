@@ -169,6 +169,7 @@ img {
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    /* margin-bottom & font-size for h2 elements can be grouped in one brace selector */
 }
 
 .footer {
